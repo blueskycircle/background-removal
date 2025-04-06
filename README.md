@@ -4,6 +4,20 @@
 
 A command-line tool for removing backgrounds from images using the rembg library.
 
+## Table of Contents
+- [Features](#features)
+- [Installation](#installation)
+  - [Prerequisites](#prerequisites)
+  - [Installing from source](#installing-from-source)
+- [Usage](#usage)
+  - [Basic Commands](#basic-commands)
+    - [Show tool information](#show-tool-information)
+    - [Remove background from a single image](#remove-background-from-a-single-image)
+    - [Batch process all images in a directory](#batch-process-all-images-in-a-directory)
+  - [Command Options](#command-options)
+    - [Remove Command](#remove-command)
+    - [Batch Command](#batch-command)
+
 ## Features
 
 - Remove backgrounds from images with a single command
