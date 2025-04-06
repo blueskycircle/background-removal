@@ -17,7 +17,6 @@ A command-line tool for removing backgrounds from images using the rembg library
 ### Prerequisites
 
 - Python 3.7 or higher
-- pip (Python package manager)
 
 ### Installing from source
 
