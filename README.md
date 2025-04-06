@@ -1,5 +1,7 @@
 # Background Removal Service
 
+[![Python application test with Github Actions](https://github.com/blueskycircle/background-removal/actions/workflows/main.yml/badge.svg)](https://github.com/blueskycircle/background-removal/actions/workflows/main.yml)
+
 A command-line tool for removing backgrounds from images using the rembg library.
 
 ## Features
