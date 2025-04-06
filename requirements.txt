@@ -1,0 +1,6 @@
+rembg==2.0.65
+Pillow==11.1.0
+onnxruntime==1.21.0
+click==8.1.8
+black==25.1.0
+pylint==3.3.6
