@@ -36,8 +36,8 @@ A command-line tool for removing backgrounds from images using the rembg library
 
 1. Clone this repository:
    ```bash
-   git clone <repository-url>
-   cd bg-removal-service
+   git clone https://github.com/blueskycircle/background-removal.git
+   cd background-removal
    ```
 
 2. Install the required dependencies:
